@@ -29,7 +29,7 @@ Our solution provides a **voice + avatar-based assistant** to make banking more 
 ---
 
 ## 🏗️ Architecture
-![Architecture Diagram](C:\Users\Ajay Tilak V\Downloads\docs)
+![Architecture Diagram](C:\Users\AjayTilakV\Downloads\docs)
 
 ---
 
