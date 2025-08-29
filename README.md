@@ -29,7 +29,7 @@ Our solution provides a **voice + avatar-based assistant** to make banking more 
 ---
 
 ## 🏗️ Architecture
-![Architecture Diagram](C:\Users\AjayTilakV\Downloads\docs)
+![Architecture Diagram](https://github.com/ajaytilak0207/Bank-of-baroda/blob/main/Architectural-diagram.png)
 
 ---
 
